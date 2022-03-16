@@ -10,6 +10,6 @@ terraform {
 provider "aws" {
   # Configuration options
   region     = "eu-central-1"
-  access_key = "xxx"
-  secret_key = "xxx"
+  access_key = "xx"
+  secret_key = "xx"
 }
